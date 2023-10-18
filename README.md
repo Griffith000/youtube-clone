@@ -1,2 +1,2 @@
 # youtube-clone
-This is my clone of youtube.com
+Recreation of youtube.com
